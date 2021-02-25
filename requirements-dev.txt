@@ -1,0 +1,6 @@
+pytest
+pytest-cov
+bddrest
+coveralls >= 2.2
+coverage
+pylama
